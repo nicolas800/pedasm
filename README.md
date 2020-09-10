@@ -1,6 +1,6 @@
 # pedasm
-A 32 bit Windows executable disassembler
+A 32 bit Windows executable disassembler mande in 1998
 
-This is a 1998 c++ project that is not maintained any more.
+This is a 1998 legacy c++ project that is not maintained any more.
 
 see original readme.txt
